@@ -44,7 +44,7 @@ int demo() {
     myButtonLabel = lv_label_create(myButton); //create label and puts it inside of the button
     lv_label_set_text(myButtonLabel, "Click the Button"); //sets label text
     lv_obj_center(myButtonLabel);
-
+    
     return(0);
 }
 

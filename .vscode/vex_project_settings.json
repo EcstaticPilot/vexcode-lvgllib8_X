@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "lvgllib",
+		"slot": 8,
+		"description": "Empty V5 C++ Project",
+		"platform": "V5",
+		"creationDate": "Sat, 23 Mar 2024 03:58:34 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240223_11_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.5.0",
+		"json": 1
+	}
+}
